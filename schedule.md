@@ -1,5 +1,7 @@
 # Schedule
 
+Classtime: Thursday 11:35 am-2:25 pm - SA 615
+
 ### Winter Term (2023)
 
 * January 9th, 2023. First day of classes in Winter term.
@@ -13,7 +15,7 @@
 
 | Week                                  | Date                                              | Topic                                                         |
 | ------------------------------------- | ------------------------------------------------- | ------------------------------------------------------------- |
-| 1                                     | January 12th                                      |                                                               |
+| 1                                     | January 12th                                      | [Orientation](fundamentals/orientation.md)                    |
 | 2                                     | January 19th                                      |                                                               |
 | 3                                     | January 26th                                      |                                                               |
 | 4                                     | February 2nd                                      |                                                               |
