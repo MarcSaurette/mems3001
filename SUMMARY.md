@@ -9,7 +9,15 @@
 * [Syllabus](course-information/syllabus/README.md)
   * [Coursework](course-information/syllabus/coursework.md)
 * [Exercises](course-information/exercises.md)
-* [Digital Tools](course-information/digital-tools.md)
+* [Digital Tools](course-information/digital-tools/README.md)
+  * [Office](course-information/digital-tools/office.md)
+  * [Teams\*](course-information/digital-tools/teams.md)
+  * [Obsidian](course-information/digital-tools/obsidian/README.md)
+    * [Installing Obsidian](course-information/digital-tools/obsidian/installing-obsidian.md)
+  * [Hypothes.is\*](course-information/digital-tools/hypothes.is.md)
+  * [Google Apps](course-information/digital-tools/google-apps.md)
+  * [Brightspace](course-information/digital-tools/brightspace.md)
+  * [Trello](course-information/digital-tools/trello.md)
 
 ## Fundamentals
 
