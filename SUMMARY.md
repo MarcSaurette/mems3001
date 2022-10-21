@@ -18,6 +18,7 @@
   * [Google Apps](course-information/digital-tools/google-apps.md)
   * [Brightspace](course-information/digital-tools/brightspace.md)
   * [Trello](course-information/digital-tools/trello.md)
+  * [Mindmeister](course-information/digital-tools/mindmeister.md)
 
 ## Fundamentals
 
