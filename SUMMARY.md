@@ -9,7 +9,7 @@
 * [Syllabus](course-information/syllabus/README.md)
   * [Coursework](course-information/syllabus/coursework.md)
 * [Exercises](course-information/exercises.md)
-* [Digital Tools](course-information/digital-tools/README.md)
+* [Digital Tools](course-information/digital-tools.md)
   * [Office](course-information/digital-tools/office.md)
   * [Teams\*](course-information/digital-tools/teams.md)
   * [Obsidian](course-information/digital-tools/obsidian/README.md)

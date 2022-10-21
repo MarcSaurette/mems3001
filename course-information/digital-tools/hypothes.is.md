@@ -26,7 +26,7 @@ We will use hypothes.is _via_ a plug-in for Chrome or a Bookmarklet on other bro
 
 2\.  Navigate to the hypothes.is website ([https://web.hypothes.is](https://web.hypothes.is/)) and press the "Get Started" button in the top right corner.&#x20;
 
-![](../../.gitbook/assets/Screen%2520Shot%25202020-06-16%2520at%25202.03.38%2520PM.png)
+![](<../../.gitbook/assets/Screen%2520Shot%25202020-06-16%2520at%25202.03.38%2520PM (1).png>)
 
 3\. If you click on the "Get Started" button it will take you to page to sign up for an account and a link to download the Chrome extension.&#x20;
 
