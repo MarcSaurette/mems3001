@@ -15,7 +15,7 @@ For an explanation on kanban boards can be used for university, take a look at J
 I hope that in our online class we can use the digital kanban Trello to reap these same benefits.
 
 {% hint style="info" %}
-You can join our group [by following this link](https://trello.com/invite/mems3001/ATTId0946161e7f4e4645327f7ccd1984e244D9276AF). You will need to sign up for an account if you are not already.
+You can join our group [by following this link](https://trello.com/invite/mems3001/ATTId0946161e7f4e4645327f7ccd1984e244D9276AF). You will need to sign up for an account if you have not previously. Use any email you wish, but do add your username [to this spreadsheet](https://docs.google.com/spreadsheets/d/13qCBEz-SuqnpS4KTj55guhPZ2Wr1dLi53RV-5BN87pA/edit?usp=sharing).&#x20;
 {% endhint %}
 
 ### Video Tutorials on Trello
