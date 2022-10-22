@@ -27,3 +27,5 @@ I've started a planning map that students can contribute to once you're signed u
 You can see it via the links below:
 
 * [https://mm.tt/map/2466082883?t=TghzY51msI](https://mm.tt/map/2466082883?t=TghzY51msI)
+
+<figure><img src="../../.gitbook/assets/Screen Shot 2022-10-21 at 9.09.34 PM.png" alt=""><figcaption></figcaption></figure>
