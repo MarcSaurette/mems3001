@@ -22,7 +22,7 @@ Mindmeister gives you different options for plotting your information. You can p
 Mindmeister allows you three (3) free maps in its basic (free) service. If you sign up for an account via this [link](https://www.mindmeister.com/?r=976984) it gives me an additional map I can see (which is important if you want me to see a map you create).&#x20;
 {% endhint %}
 
-I've started a planning map that students can contribute to once you're signed up. You can request to edit or I'll give you edit privileges, when you've given me your name [in this spreadsheet](https://docs.google.com/spreadsheets/d/13qCBEz-SuqnpS4KTj55guhPZ2Wr1dLi53RV-5BN87pA/edit?usp=sharing). Consider the outline very much _in progress_.&#x20;
+I've started a planning map that students can contribute to once you're signed up. You can request to edit or I'll give you edit privileges, when you've given me your name in this spreadsheet. Consider the outline very much _in progress_.&#x20;
 
 You can see it via the links below:
 
