@@ -8,7 +8,8 @@
 
 * [Syllabus](course-information/syllabus/README.md)
   * [Coursework](course-information/syllabus/coursework.md)
-* [Exercises](course-information/exercises.md)
+* [Exercises](course-information/exercises/README.md)
+  * [folio measurements](course-information/exercises/folio-measurements.md)
 * [Digital Tools](course-information/digital-tools.md)
   * [Office](course-information/digital-tools/office.md)
   * [Teams\*](course-information/digital-tools/teams.md)
