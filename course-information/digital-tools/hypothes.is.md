@@ -32,46 +32,40 @@ We will use hypothes.is _via_ a plug-in for Chrome or a Bookmarklet on other bro
 
 <figure><img src="../../.gitbook/assets/Screen%2520Shot%25202020-06-16%2520at%25202.01.06%2520PM-2.png" alt=""><figcaption></figcaption></figure>
 
-4\. First navigate to the account sign up. You can use any email and password. Just make sure to remember them both (even better, write them down somewhere safe). And then add your username to this [spreadsheet](https://docs.google.com/spreadsheets/d/13qCBEz-SuqnpS4KTj55guhPZ2Wr1dLi53RV-5BN87pA/edit?usp=sharing).&#x20;
+4\. First navigate to the account sign up. You can use any email and password. Just make sure to remember them both (even better, write them down somewhere safe). And then add your username to this [spreadsheet](https://docs.google.com/spreadsheets/d/13qCBEz-SuqnpS4KTj55guhPZ2Wr1dLi53RV-5BN87pA/edit?usp=sharing). Afterwards click[ this link](https://hypothes.is/groups/LKiykDpj/mems3001-2023) to join the class hypothes.is group.
 
 ![](../../.gitbook/assets/Screen%2520Shot%25202020-06-16%2520at%25202.01.28%2520PM.png)
 
 5\. Go back to the previous page ([https://web.hypothes.is/start/](https://web.hypothes.is/start/)) and click to download the google chrome extension. Install it as your system requires.&#x20;
 
-6\. If you need to reopen Chrome after installing the hypothes.is extensions, do so and navigate to any webpage. You should now find the hypothes.is icon on your browser. You can click on the icon to start it up hypothes.is.&#x20;
+6\. If you need to reopen Chrome after installing the hypothes.is extensions, do so and navigate to any webpage. You should now find the hypothes.is icon on your browser. You can click on the icon to start it up hypothes.is. To be a bit _meta_, I'm using hypothesis to comment on these hypothesis instructions...
 
-![After I took these screenshots I realized that hypothes.is does not work with Gitbook](../../.gitbook/assets/Screen%2520Shot%25202020-06-17%2520at%25209.16.27%2520AM.png)
+![The hypothesis icon ](<../../.gitbook/assets/Screen Shot 2022-10-24 at 4.24.56 PM.png>)
 
-7\. It will open up a new sidebar. This is what mine looks like on a page I have already begun to annotate.&#x20;
+7\. You will need to sign into hypothesis. After clicking on the hypothesis icon once, (1) click on the sign up/Log in option on the top right corner. Add your username and password. Then go over to the "currently viewing" drop down menu (2) on the top left of the hypothesis sidebar and select "MEMS 2001 - 2023". If this is not offered as an option, make sure you have clicked on[ this link](https://hypothes.is/groups/LKiykDpj/mems3001-2023) to join the class hypothes.is group and try again. This is super important. We want you to post in a goup that we can find and that other (non-class) people don't see publicly (which is the default).
 
-![](../../.gitbook/assets/Screen%2520Shot%25202020-06-17%2520at%25209.28.08%2520AM.png)
+<figure><img src="../../.gitbook/assets/Screen Shot 2022-10-24 at 5.03.10 PM.png" alt=""><figcaption></figcaption></figure>
 
-8\. Hypothesis gives you three options to annotate. You can leave a comment on the page as a whole (by clicking on page icon, or clicking on the words "Page Notes".&#x20;
+8\. When you select text with your mouse/cursor, Hypothesis will give you the opportunity to "annotate" or "highlight". You should normally choose to annotate.&#x20;
 
-![](broken-reference)
+![Click on annotate!](<../../.gitbook/assets/Screen Shot 2022-10-24 at 4.26.10 PM.png>)
 
-9\. If you click on the eyeball (?) icon or click on the word "Annotations" it will take you to annotations on specific text. To make an annotation simply select some text and either highlight it or choose to make an annotation. A text box will open in the sidebar.&#x20;
+9\. When you click on annotate a sidebar will open (or perhaps it was already open) which notes both the text your selected and gives you an opportunity to make a comment about it. If you are making notes smartly, you will rephrase the text, or explain its significance or note a question. Essentially, you should interact with the idea that you think is significant, so that you remember it.&#x20;
 
-![](broken-reference)
+![](<../../.gitbook/assets/Screen Shot 2022-10-24 at 4.26.27 PM.png>)
 
-10\. After you have entered your text be sure to press the "Post to ..." button, which makes the text available for others to see. You can also add tags in case you want to keep track of certain kinds of information to be searchable later.&#x20;
+10\. You should add some tags as well. If you are doing research and you are exploring different interrelated topics, it is very useful to create tags to help future-you find these annotations and your ideas again. The key is consistency, so Hypothes.is stores a library of your tags. If you click on a tag, it takes you to a list of all the other uses of that tag in your annotations.&#x20;
 
-![](broken-reference)
+<figure><img src="../../.gitbook/assets/Screen Shot 2022-10-24 at 4.27.34 PM.png" alt=""><figcaption></figcaption></figure>
 
-11\. Before you annotate anything, however, you will need to sign into hypothes.is again using your username and password by clicking on the person icon in the top right corner.&#x20;
+11\. After you have entered your text be sure to press the "Post to ..." button, which makes the text available for others to see. And now the post looks complete. If you do want to go back to edit the annotation, click on the pencil icon at the bottom right corner&#x20;
 
-![](broken-reference)
+\[pencil=edit| garbage = delete| left arrow = reply to the annotation| upward arrow = share]
 
-12\. Then click [this link ](https://hypothes.is/groups/LKiykDpj/mems3001-2023)to join the class annotation group. This is super important. We want you to post in a goup that we can find and that people don't see publicly (which is the default). The link will ask you to sign in again.&#x20;
+![](<../../.gitbook/assets/Screen Shot 2022-10-24 at 4.27.51 PM.png>)
 
-![Yes, I stole this screen shot from a guide for another class...](broken-reference)
+12\. Now play around with Hypothes.is. You might also want to make a separate private folder for comments you want to keep to yourself (or for each research project you are working on this year...).&#x20;
 
-13\. Then go back to the hypothes.is sidebar and on its top left corner you can select from "My Groups" i.e. where your annotations will appear. These are my choices - if you're using this for the first time your choices will be "Public" and "HIST2000 Medieval Europe". Select the second on the drop down menu. You'll notice that at the bottom of this drop down menu is the option to create a "New Private Group". If you want a group for annotations for doing research, you can create it and share it with others if you want.&#x20;
-
-![](broken-reference)
-
-14\. Play around with Hypothes.is. The first step is to view this page with the plugin activated, and **see the final instruction I have posted there**. You might also want to make a separate private folder for comments you want to keep to yourself (or for each research project you are working on this year...).&#x20;
-
-15\. For more of a sense of what hypothes.is can do, take a look at their [tutorials](https://web.hypothes.is/help-categories/tutorials/).
+13\. For more of a sense of what hypothes.is can do, take a look at their [tutorials](https://web.hypothes.is/help-categories/tutorials/).
 
 Join us here: [https://hypothes.is/groups/LKiykDpj/mems3001-2023](https://hypothes.is/groups/LKiykDpj/mems3001-2023).
