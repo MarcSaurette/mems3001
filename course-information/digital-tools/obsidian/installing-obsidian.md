@@ -18,4 +18,4 @@ The sidebar shows my various vaults which I use with Obsidian. Yours will likely
 
 This is what obsidian will look like when you have added the class vault.
 
-<figure><img src="https://53587841-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FCxELZwjM9jcN4frX8gVk%2Fuploads%2FfNczIlVvyk6KIyQGgQSw%2FScreen%20Shot%202022-09-13%20at%202.02.18%20PM.png?alt=media&#x26;token=f30412f7-8151-4b52-aa6d-789d3e14a637" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screen Shot 2022-10-24 at 4.17.50 PM.png" alt=""><figcaption></figcaption></figure>
