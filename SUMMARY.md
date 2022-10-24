@@ -7,6 +7,7 @@
 ## Course Information
 
 * [Syllabus](course-information/syllabus/README.md)
+  * [What is a seminar?](course-information/syllabus/what-is-a-seminar.md)
   * [Coursework](course-information/syllabus/coursework.md)
 * [Exercises](course-information/exercises.md)
   * [Folio Measurements](course-information/exercises/folio-measurements.md)
