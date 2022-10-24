@@ -11,6 +11,7 @@
     * [Experimenting with Learning](course-information/syllabus/what-is-a-seminar/experimenting-with-learning.md)
     * [Learning as mental exercise](course-information/syllabus/what-is-a-seminar/learning-as-mental-exercise.md)
   * [Your Professor, Marc Saurette](course-information/syllabus/your-professor-marc-saurette.md)
+  * [Learning Outcomes](course-information/syllabus/learning-outcomes.md)
   * [Coursework](course-information/syllabus/coursework.md)
 * [Exercises](course-information/exercises.md)
   * [Folio Measurements](course-information/exercises/folio-measurements.md)
