@@ -18,7 +18,8 @@
     * [Installing Obsidian](course-information/digital-tools/obsidian/installing-obsidian.md)
   * [Hypothes.is\*](course-information/digital-tools/hypothes.is.md)
   * [Trello](course-information/digital-tools/trello.md)
-  * [Mindmeister\*](course-information/digital-tools/mindmeister.md)
+  * [Mindmeister](course-information/digital-tools/mindmeister.md)
+  * [Mindmeister\*](course-information/digital-tools/mindmeister-1.md)
   * [Google Apps](course-information/digital-tools/google-apps.md)
   * [Brightspace](course-information/digital-tools/brightspace.md)
 
