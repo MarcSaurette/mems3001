@@ -4,6 +4,6 @@ For collaborative work, google apps (docs, sheets, calendar) are convenient, fre
 
 And we'll work together on a jointly written Proposal (and curatorial statement) for our group project.&#x20;
 
-The initial template for the proposal can be consulted [here](https://docs.google.com/document/d/1ErfaEmOOA55HDt7gKiXcACTWdZmN02O8x6z79ppFW\_8/edit?usp=sharing):&#x20;
+The initial template for the group project can be consulted [here](https://docs.google.com/document/d/1ErfaEmOOA55HDt7gKiXcACTWdZmN02O8x6z79ppFW\_8/edit?usp=sharing):&#x20;
 
 {% embed url="https://docs.google.com/document/d/1ErfaEmOOA55HDt7gKiXcACTWdZmN02O8x6z79ppFW_8/edit?usp=sharing" %}
