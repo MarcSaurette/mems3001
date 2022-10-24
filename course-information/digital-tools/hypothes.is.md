@@ -34,17 +34,17 @@ We will use hypothes.is _via_ a plug-in for Chrome or a Bookmarklet on other bro
 
 4\. First navigate to the account sign up. You can use any email and password. Just make sure to remember them both (even better, write them down somewhere safe). And then add your username to this [spreadsheet](https://docs.google.com/spreadsheets/d/13qCBEz-SuqnpS4KTj55guhPZ2Wr1dLi53RV-5BN87pA/edit?usp=sharing).&#x20;
 
-![](broken-reference)
+![](../../.gitbook/assets/Screen%2520Shot%25202020-06-16%2520at%25202.01.28%2520PM.png)
 
 5\. Go back to the previous page ([https://web.hypothes.is/start/](https://web.hypothes.is/start/)) and click to download the google chrome extension. Install it as your system requires.&#x20;
 
 6\. If you need to reopen Chrome after installing the hypothes.is extensions, do so and navigate to any webpage. You should now find the hypothes.is icon on your browser. You can click on the icon to start it up hypothes.is.&#x20;
 
-![After I took these screenshots I realized that hypothes.is does not work with Gitbook](broken-reference)
+![After I took these screenshots I realized that hypothes.is does not work with Gitbook](../../.gitbook/assets/Screen%2520Shot%25202020-06-17%2520at%25209.16.27%2520AM.png)
 
 7\. It will open up a new sidebar. This is what mine looks like on a page I have already begun to annotate.&#x20;
 
-![](broken-reference)
+![](../../.gitbook/assets/Screen%2520Shot%25202020-06-17%2520at%25209.28.08%2520AM.png)
 
 8\. Hypothesis gives you three options to annotate. You can leave a comment on the page as a whole (by clicking on page icon, or clicking on the words "Page Notes".&#x20;
 
