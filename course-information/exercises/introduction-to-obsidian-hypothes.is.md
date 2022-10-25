@@ -27,19 +27,26 @@ In order for you to complete this exercise, you will need to have
 
 3 - This folder will likely download to your device as a compressed .zip file. Most computers will automatically unpack the zip file. If not, do so as your particular device permits. Place the folder somewhere on your computer you will easily find it – move it out of "downloads" – its most-likely location, maybe into your "documents" folder. I have a folder named "Obsidian Vaults" to make it easy). This is more difficult if you are using a tablet.&#x20;
 
-4 - Open up Obsidian. You will be presented with the screen that looks like the following. Choose the option, "**Open Folder as Vault**". Then find the folder you just downloaded. If it does not open, make sure it has been unzipped (see instructions for [unzipping on PCs](https://support.microsoft.com/en-us/windows/zip-and-unzip-files-f6dde0a7-0fec-8294-e1d3-703ed85e7ebc); [on Macs](https://support.apple.com/en-ca/guide/mac-help/mchlp2528/mac))
-
-It will ask you whether you trust the author of this vault. Press, "Trust author and enable plugins". Otherwise, everything gets much harder. Let's avoid that.
+4 - Open up Obsidian. You will be presented with the screen that looks like the following. Choose the option, "**Open Folder as Vault**". Then find the folder you just downloaded. If it does not open, make sure it has been unzipped (see instructions for [unzipping on PCs](https://support.microsoft.com/en-us/windows/zip-and-unzip-files-f6dde0a7-0fec-8294-e1d3-703ed85e7ebc); [on Macs](https://support.apple.com/en-ca/guide/mac-help/mchlp2528/mac)).
 
 <figure><img src="../../.gitbook/assets/Screen Shot 2022-09-15 at 3.12.09 PM.png" alt=""><figcaption></figcaption></figure>
 
+It will ask you whether you trust the author of this vault. Press, "Trust author and enable plugins". Otherwise, everything gets much harder. Let's avoid that.
+
+<figure><img src="../../.gitbook/assets/Screen Shot 2022-09-15 at 3.13.01 PM.png" alt=""><figcaption></figcaption></figure>
+
 The vault will open up with the settings panel open. If you want, you can click on "Check for updates" to update any plugins are installed by default in our vault. There are lots of ways for you to customize your Obsidian set up, but I think you should save doing that for later – once you've had some time with the software first. Close the settings panel.
+
+<figure><img src="../../.gitbook/assets/Screen Shot 2022-09-15 at 3.14.30 PM.png" alt=""><figcaption></figcaption></figure>
 
 Obsidian should show something like this window (below). On the left side of the window should be a list of files in the vault and on the right side there will be either no note or maybe this one. Read through the instructions of note "01-Getting Started". It has some instructions on how to write a note.
 
-The page icon lets you create a new note. Open a new one and write something. Anything. Try different formatting. Try to link to a preexisting note.
+<figure><img src="../../.gitbook/assets/Screen Shot 2022-10-25 at 2.56.10 PM.png" alt=""><figcaption></figcaption></figure>
 
-The vault icon on the bottom left (it looks like an old fashioned safe) lets you open or create vaults. The cog icon lets you play with the settings. We'll ignore those for now.
+<figure><img src="../../.gitbook/assets/Screen Shot 2022-09-15 at 3.19.29 PM.png" alt=""><figcaption><p>Here is a screen shot from a vault for a different course, but marked up to show you the key icons for using Obsidian. </p></figcaption></figure>
+
+* The page icon lets you create a new note. Open a new one and write something. Anything. Try different formatting. Try to link to a preexisting note
+* The vault icon on the bottom left (it looks like an old fashioned safe) lets you open or create vaults. The cog icon lets you play with the settings. We'll ignore those for now.
 
 Maybe watch the linked youtube video in the "Getting Started note", a short strangely-hypnotic video that shows the basics of Obsidian: [https://www.youtube.com/watch?v=QgbLb6QCK88](https://www.youtube.com/watch?v=QgbLb6QCK88). This is the first in a series of videos outlining the fundamentals of Obsidian.
 
