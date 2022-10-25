@@ -12,6 +12,8 @@
     * [Learning as mental exercise](course-information/syllabus/what-is-a-seminar/learning-as-mental-exercise.md)
   * [Your Professor, Marc Saurette](course-information/syllabus/your-professor-marc-saurette.md)
   * [Learning Outcomes](course-information/syllabus/learning-outcomes.md)
+  * [How much time do I spend ...](course-information/syllabus/how-much-time-do-i-spend-....md)
+  * [Communication](course-information/syllabus/communication.md)
   * [Coursework](course-information/syllabus/coursework.md)
 * [Exercises](course-information/exercises.md)
   * [Folio Measurements](course-information/exercises/folio-measurements.md)

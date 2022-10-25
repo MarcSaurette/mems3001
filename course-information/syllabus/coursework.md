@@ -4,7 +4,9 @@ Our class is intended to be a hands-on experience learning how to handle, read a
 
 {% tabs %}
 {% tab title="Participation" %}
-You will be expected to come to class, ready to discuss class readings and participate in the discussion
+You will be expected to come to class, ready to discuss class readings and participate in the discussion. You need to have _read and understood_ the assigned readings before class.&#x20;
+
+Our class&#x20;
 {% endtab %}
 
 {% tab title="Exercises" %}
@@ -25,6 +27,8 @@ Students will be asked to research and present on one of the following topics:&#
 Our goal this term will be to put together a Design Document - a proposal for an&#x20;
 {% endtab %}
 {% endtabs %}
+
+
 
 
 
