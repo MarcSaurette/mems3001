@@ -1,4 +1,4 @@
-# Coursework
+# Coursework\*
 
 Our class is intended to be a hands-on experience learning how to handle, read and understand medieval manuscripts.&#x20;
 
@@ -24,7 +24,7 @@ Students will be asked to research and present on one of the following topics:&#
 {% endtab %}
 
 {% tab title="Project" %}
-Our goal this term will be to put together a Design Document - a proposal for an&#x20;
+Our goal this term will be to put together a showcase of work that we produce in this class. The goal is to&#x20;
 {% endtab %}
 {% endtabs %}
 

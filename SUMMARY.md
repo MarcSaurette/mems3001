@@ -17,6 +17,8 @@
   * [Coursework\*](course-information/syllabus/coursework.md)
 * [Exercises](course-information/exercises.md)
   * [Folio Measurements](course-information/exercises/folio-measurements.md)
+  * [Reproducing the Ruling](course-information/exercises/reproducing-the-ruling.md)
+  * [Manuscript Catalogues\*](course-information/exercises/manuscript-catalogues.md)
 * [Digital Tools](course-information/digital-tools.md)
   * [Office](course-information/digital-tools/office.md)
   * [Teams\*](course-information/digital-tools/teams.md)
@@ -32,4 +34,5 @@
 
 * [Orientation](fundamentals/orientation.md)
 * [Meetings with Manuscripts](fundamentals/meetings-with-manuscripts.md)
+* [Mise-en-Page](fundamentals/mise-en-page.md)
 * [Page 1](fundamentals/page-1.md)
