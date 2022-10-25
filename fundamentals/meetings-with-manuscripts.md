@@ -12,3 +12,4 @@ This week we will meet in the Archives and Special Collections room to look at t
 
 ### Practice
 
+Complete the [folio measurements exercise](../course-information/exercises/folio-measurements.md)
