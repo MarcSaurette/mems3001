@@ -17,7 +17,7 @@ Classtime: Thursday 11:35 am-2:25 pm - SA 615
 | ------------------------------------- | ------------------------------------------------- | ------------------------------------------------------------- |
 | 1                                     | January 12th                                      | [Orientation](fundamentals/orientation.md)                    |
 | 2                                     | January 19th                                      | Meetings with manuscripts                                     |
-| 3                                     | January 26th                                      | Mise-en-page                                                  |
+| 3                                     | January 26th                                      |                                                               |
 | 4                                     | February 2nd                                      |                                                               |
 | 5                                     | February 9th                                      |                                                               |
 | 6                                     | February 16th                                     |                                                               |

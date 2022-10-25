@@ -34,5 +34,5 @@
 
 * [Orientation](fundamentals/orientation.md)
 * [Meetings with Manuscripts](fundamentals/meetings-with-manuscripts.md)
-* [Mise-en-Page](fundamentals/mise-en-page.md)
+* [Mise-en-Page\*](fundamentals/mise-en-page.md)
 * [Page 1](fundamentals/page-1.md)
