@@ -1,8 +1,8 @@
 # Table of contents
 
 * [Welcome](README.md)
-* [How to use this site](how-to-use-this-site.md)
-* [Schedule](schedule.md)
+* [How to use this site\*](how-to-use-this-site.md)
+* [Schedule\*](schedule.md)
 
 ## Course Information
 
@@ -14,7 +14,7 @@
   * [Learning Outcomes](course-information/syllabus/learning-outcomes.md)
   * [How much time do I spend ...](course-information/syllabus/how-much-time-do-i-spend-....md)
   * [Communication](course-information/syllabus/communication.md)
-  * [Coursework](course-information/syllabus/coursework.md)
+  * [Coursework\*](course-information/syllabus/coursework.md)
 * [Exercises](course-information/exercises.md)
   * [Folio Measurements](course-information/exercises/folio-measurements.md)
 * [Digital Tools](course-information/digital-tools.md)
