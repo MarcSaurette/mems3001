@@ -34,3 +34,5 @@ Not pictured but necessary to measure (if relevant)
 
 * space allotted for initials, decorative space,&#x20;
 * musical lines (length, number, interlinear spacing, distance from text
+
+<figure><img src="../../.gitbook/assets/Screen Shot 2022-10-25 at 10.44.01 AM.png" alt=""><figcaption><p>From <a href="http://www.cei.lmu.de/extern/VocCod/WOR10-3.pdf">http://www.cei.lmu.de/extern/VocCod/WOR10-3.pdf</a></p></figcaption></figure>
