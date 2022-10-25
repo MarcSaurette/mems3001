@@ -8,7 +8,7 @@ This week we will meet in the Archives and Special Collections room to look at t
 
 ### Read/Watch/Listen
 
-
+Read James Raven, _The Oxford Illustrated History Of The Book._ Oxford: Oxford University Press (2020): chapters 3, 5 and 8.&#x20;
 
 ### Practice
 
