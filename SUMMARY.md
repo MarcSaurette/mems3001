@@ -17,7 +17,7 @@
   * [Coursework\*](course-information/syllabus/coursework.md)
 * [Exercises](course-information/exercises.md)
   * [Page 2](course-information/exercises/page-2.md)
-  * [Introduction to Hypothes.is](course-information/exercises/introduction-to-hypothes.is.md)
+  * [Introduction to Obsidian/ Hypothes.is\*](course-information/exercises/introduction-to-obsidian-hypothes.is.md)
   * [Folio Measurements](course-information/exercises/folio-measurements.md)
   * [Reproducing the Ruling](course-information/exercises/reproducing-the-ruling.md)
   * [Manuscript Catalogues\*](course-information/exercises/manuscript-catalogues.md)

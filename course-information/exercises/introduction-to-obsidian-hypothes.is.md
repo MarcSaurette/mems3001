@@ -1,4 +1,4 @@
-# Introduction to Hypothes.is
+# Introduction to Obsidian/ Hypothes.is\*
 
 ### Requirements
 
@@ -19,13 +19,19 @@ In order for you to complete this exercise, you will need to have
 
 1 - Download the class "starter vault", on Teams. You can find the folder in the files of the general channel. To find this, make sure you have clicked on the "General" channel in left sidebar, and then click on "Files" in the topbar to the right.
 
+<figure><img src="../../.gitbook/assets/Screen Shot 2022-10-25 at 2.42.07 PM.png" alt=""><figcaption><p>Download the vault.</p></figcaption></figure>
+
 2 - Right-click or click the elipsis (...) to select "download". In some versions of Teams you can drag and drop the folder onto your device.
 
-3 - This folder will likely download to your device as a compressed .zip file. Most computers will automatic unpack the zip file. If not, do so as your particular device permits. Place the folder somewhere on your computer you will easily find it – move it out of "downloads" – its mostly like location, maybe into your "documents" folder. I have a folder named "Obsidian Vaults" to make it easy).
+<figure><img src="../../.gitbook/assets/Screen Shot 2022-10-25 at 2.44.03 PM.png" alt=""><figcaption></figcaption></figure>
 
-4 - Open up Obsidian. You will be presented with the screen that looks like the following. Choose the option, "Open Folder as Vault".
+3 - This folder will likely download to your device as a compressed .zip file. Most computers will automatically unpack the zip file. If not, do so as your particular device permits. Place the folder somewhere on your computer you will easily find it – move it out of "downloads" – its most-likely location, maybe into your "documents" folder. I have a folder named "Obsidian Vaults" to make it easy). This is more difficult if you are using a tablet.&#x20;
+
+4 - Open up Obsidian. You will be presented with the screen that looks like the following. Choose the option, "**Open Folder as Vault**". Then find the folder you just downloaded. If it does not open, make sure it has been unzipped (see instructions for [unzipping on PCs](https://support.microsoft.com/en-us/windows/zip-and-unzip-files-f6dde0a7-0fec-8294-e1d3-703ed85e7ebc); [on Macs](https://support.apple.com/en-ca/guide/mac-help/mchlp2528/mac))
 
 It will ask you whether you trust the author of this vault. Press, "Trust author and enable plugins". Otherwise, everything gets much harder. Let's avoid that.
+
+<figure><img src="../../.gitbook/assets/Screen Shot 2022-09-15 at 3.12.09 PM.png" alt=""><figcaption></figcaption></figure>
 
 The vault will open up with the settings panel open. If you want, you can click on "Check for updates" to update any plugins are installed by default in our vault. There are lots of ways for you to customize your Obsidian set up, but I think you should save doing that for later – once you've had some time with the software first. Close the settings panel.
 
