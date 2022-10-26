@@ -13,18 +13,18 @@ Classtime: Thursday 11:35 am-2:25 pm - SA 615
 
 
 
-| Week                                  | Date                                              | Topic                                                         |
-| ------------------------------------- | ------------------------------------------------- | ------------------------------------------------------------- |
-| 1                                     | January 12th                                      | [Orientation](fundamentals/orientation.md)                    |
-| 2                                     | January 19th                                      | Meetings with manuscripts                                     |
-| 3                                     | January 26th                                      | Mise-en-page                                                  |
-| 4                                     | February 2nd                                      |                                                               |
-| 5                                     | February 9th                                      |                                                               |
-| 6                                     | February 16th                                     |                                                               |
-| <mark style="color:red;">**7**</mark> | <mark style="color:red;">**February 23rd**</mark> | <mark style="color:red;">**Reading Week. No Classes.**</mark> |
-| 8                                     | March 2nd                                         |                                                               |
-| 9                                     | March 9th                                         |                                                               |
-| 10                                    | March 16th                                        |                                                               |
-| 11                                    | March 23rd                                        |                                                               |
-| 12                                    | March 30th                                        |                                                               |
-| 13                                    | April 6th                                         |                                                               |
+| Week                                  | Date                                              | Topic                                                                  |
+| ------------------------------------- | ------------------------------------------------- | ---------------------------------------------------------------------- |
+| 1                                     | January 12th                                      | [Orientation](fundamentals/orientation.md)                             |
+| 2                                     | January 19th                                      | [Meetings with manuscripts](fundamentals/meetings-with-manuscripts.md) |
+| 3                                     | January 26th                                      | [Mise-en-page](fundamentals/mise-en-page.md)                           |
+| 4                                     | February 2nd                                      | Writing                                                                |
+| 5                                     | February 9th                                      | Abbreviations                                                          |
+| 6                                     | February 16th                                     | Rubrication and Decoration                                             |
+| <mark style="color:red;">**7**</mark> | <mark style="color:red;">**February 23rd**</mark> | <mark style="color:red;">**Reading Week. No Classes.**</mark>          |
+| 8                                     | March 2nd                                         | Binding                                                                |
+| 9                                     | March 9th                                         | Presentations                                                          |
+| 10                                    | March 16th                                        | Early Printed Works                                                    |
+| 11                                    | March 23rd                                        | Print workshop I                                                       |
+| 12                                    | March 30th                                        | Print workshop II                                                      |
+| 13                                    | April 6th                                         | Showcase (Exhibition?)                                                 |
