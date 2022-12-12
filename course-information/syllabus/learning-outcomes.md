@@ -4,34 +4,23 @@
 
 We want you to learn how to _read_, how to _write_, how to _interpret,_ how to _research_ and most importantly how to _think_ like a medieval historian. With a focus on medieval book history, this course will generally answer the questions, "what is a book?", "how did medieval people communicate?" and "how to we research using medieval evidence?".
 
-As your professor, I want to be clear about what you will learn (or what I want you to learn if all goes well) by the end of the year. I think **a lot** about what I want my students to learn so that they (i.e. you) can make progress in becoming a historian.&#x20;
-
-{% hint style="info" %}
-&#x20;When you're applying to a new university program (e.g. grad school or law school), or trying to get a scholarship, or looking for a job, people will want to know what skills you have and how you can demonstrate them. Being able to refer to concrete examples helps. When you can say, "I can work and collaborate in digital teams" and can also point to your work in this class with enterprise tools (such as Teams or Trello), you can show (not just say) your expertise...
-{% endhint %}
-
 ### What are the Learning Outcomes for this Class?
-
-Generally...
-
-1. You will learn about how to navigate Carleton university and its resources
-2. You will learn how to be a university student, including key study skills, etiquette for interacting with your fellow students and the professor ...
 
 In terms of content, you will:
 
-1. learn how to read and interpret medieval evidence and learn the advantages and difficulties of working with them.&#x20;
-2. come to understand the limitations of evidence (and thus our knowledge) of the Middle Ages. Being a medieval historian means that you have to come to terms with ambiguity and that you will not always have a clear answer.&#x20;
-3. You will learn terminology (i.e. the language used by professional historians) and different ways (i.e. methodologies) to describe and catalogue medieval evidence.
-4. You will learn to work independently and as a group, using digital "enterprise" tools to plan and execute written assignments. You will learn ways to manage your time and your work flow.
+1. know how to find medieval manuscripts in print and online catalogues
+2. learn how to read and make sense of medieval manuscripts
+3. understand how medieval books were copied and assembled
+4. understand how medieval books were transformed when printed
+5. learn how to read and interpret medieval evidence and learn the advantages and difficulties of working with them.&#x20;
+6. come to understand the limitations of evidence (and thus our knowledge) of the Middle Ages. Being a medieval historian means that you have to come to terms with ambiguity and that you will not always have a clear answer.&#x20;
+7. You will learn terminology (i.e. the language used by professional historians) and different ways (i.e. methodologies) to describe and catalogue medieval evidence.
 
 In terms of skills:
 
 1. You will have hands on experience with the tools and materials of medieval book-making.&#x20;
-2. You will learn how to closely read and analyze sources with different historical methodologies.
-3. You will learn how to take notes (class notes and research notes), synthesize them and use them to develop conclusions.
-4. You will learn study skills and habits to help you achieve academic success in this class and others.
-5. You will learn digital tools for working on projects that will help you in this and future classes.
-6. You will learn how to work independently and as a group, using digital "enterprise" tools to plan and execute written assignments. You will learn ways to manage your time and your work flow.
+2. You will learn how to closely read and analyze sources
+3. You will learn how to work independently and as a group, using digital "enterprise" tools to plan and execute written assignments. You will learn ways to manage your time and your work flow.
 
 {% hint style="info" %}
 Learning outcomes are usually practical things, such as (imagine this said in a grumpy professor voice), "Learning enterprise tools allow you to succeed in the world after graduation". But one of the most important things to do in this class is to get to know your fellow students!&#x20;
