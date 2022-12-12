@@ -1,8 +1,6 @@
 # Experimenting with Learning
 
-
-
-Teaching and learning this year will be an experiment. I will be teaching with software ([Obsidian](broken-reference)) which I haven't used before (with students at least) and am teaching this course for the first time. You will be asked to do assignments which are totally unfamiliar to you. You will be using software for this class which is likely new or at least used in new ways. I likely will have expectations and forms of etiquette which differ from those of other professors. Thus we should all try to be extra patient and understanding when things don't go as smoothly as we'd like.
+&#x20;I likely will have expectations and forms of etiquette which differ from those of other professors. Thus we should all try to be extra patient and understanding when things don't go as smoothly as we'd like.
 
 We don't know how things are going to look in January, so please understand if schedules get derailed, our discussions get irescheduled and learning doesn't happen exactly as hoped for. Experiments in learning can pay off if we accept the risks.
 
