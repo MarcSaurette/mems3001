@@ -8,13 +8,14 @@ We want you to learn how to _read_, how to _write_, how to _interpret,_ how to _
 
 In terms of content, you will:
 
-1. know how to find medieval manuscripts in print and online catalogues
-2. learn how to read and make sense of medieval manuscripts
-3. understand how medieval books were copied and assembled
-4. understand how medieval books were transformed when printed
-5. learn how to read and interpret medieval evidence and learn the advantages and difficulties of working with them.&#x20;
-6. come to understand the limitations of evidence (and thus our knowledge) of the Middle Ages. Being a medieval historian means that you have to come to terms with ambiguity and that you will not always have a clear answer.&#x20;
-7. You will learn terminology (i.e. the language used by professional historians) and different ways (i.e. methodologies) to describe and catalogue medieval evidence.
+1. become familiar with the field of book history and manuscript studies and thus have a sense of the history of communication from Late Antiquity to Modernity
+2. know how to find medieval manuscripts in print and online catalogues
+3. learn how to read and make sense of medieval manuscripts
+4. understand how medieval books were copied and assembled
+5. understand how medieval books were transformed when printed
+6. learn how to read and interpret medieval evidence and learn the advantages and difficulties of working with them.&#x20;
+7. come to understand the limitations of evidence (and thus our knowledge) of the Middle Ages. Being a medieval historian means that you have to come to terms with ambiguity and that you will not always have a clear answer.&#x20;
+8. You will learn terminology (i.e. the language used by professional historians) and different ways (i.e. methodologies) to describe and catalogue medieval evidence.
 
 In terms of skills:
 
