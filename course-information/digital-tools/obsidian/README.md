@@ -1,4 +1,10 @@
-# Obsidian
+# Obsidian\*
+
+{% hint style="info" %}
+Use of Obsidian and Hypothes.is are optional.&#x20;
+{% endhint %}
+
+
 
 [Obsidian](https://obsidian.md) is a powerful tool for taking notes and organizing knowledge. As they say:
 
