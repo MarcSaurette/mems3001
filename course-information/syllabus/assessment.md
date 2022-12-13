@@ -9,5 +9,6 @@ Your final mark will assessed based on your completion of the following coursewo
 | Reading & Annotations | 15%                 |
 | Participation         | 25%                 |
 | Leading Seminar       | 10%                 |
-| Exercises             | 35%                 |
+| Exercises             | 25%                 |
+| Presentations         | 10%                 |
 | Final Project         | 15%                 |
