@@ -15,6 +15,7 @@
   * [How much time do I spend ...](course-information/syllabus/how-much-time-do-i-spend-....md)
   * [Communication](course-information/syllabus/communication.md)
   * [Coursework\*](course-information/syllabus/coursework.md)
+  * [Assessment](course-information/syllabus/assessment.md)
 * [Exercises](course-information/exercises.md)
   * [Writing and Scripts](course-information/exercises/writing-and-scripts.md)
   * [Folio Measurements](course-information/exercises/folio-measurements.md)
