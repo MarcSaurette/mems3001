@@ -40,3 +40,5 @@
 * [Meetings with Manuscripts](fundamentals/meetings-with-manuscripts.md)
 * [Mise-en-Page\*](fundamentals/mise-en-page.md)
 * [Writing and Scripts](fundamentals/writing-and-scripts.md)
+* [Print Workshop I](fundamentals/print-workshop-i.md)
+* [Print Workshop II](fundamentals/print-workshop-ii.md)
