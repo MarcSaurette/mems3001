@@ -4,6 +4,6 @@
 For a condensed syllabus, please consult a pdf version available below:&#x20;
 {% endhint %}
 
-Professors use a _syllabus_ to provide an overview of the course, to offer a quick reference guide for key information and to lay out key regulations that students need to be aware of. "[Syllabus](https://www.oed.com/view/Entry/196148)", as the _Oxford English Dictionary_ indicates, was first used to describe university teaching plans in 1889. Nineteenth-century academics always liked to use a bit of Latin/Greek to make their work seem difficult and daunting to the uninitiated. We will try to do the opposite in this class, but we don't always succeed. Please let us know when and where something needs to be more fully explained. &#x20;
+{% file src="../../.gitbook/assets/Saurette - MEMS 3001 - Medieval Manuscripts - Winter 2023.pdf" %}
 
 This syllabus represents a plan, a hope, a goal. It describes the scope of knowledge that we will cover and the different things students need to do to learn and to integrate their knowledge. It is written as if we are able to come to campus in person. But this might change, and thus so might what we cover and what we can expect from one another. The assignments are designed to be flexible and able to be accomplished at a distance, if need be. I am a firm believer in the paramount importance of personal connection between professor and learners and between students themselves, so if we can’t do this in person, the course will seek to accomplish this digitally.
