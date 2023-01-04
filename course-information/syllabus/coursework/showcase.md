@@ -1,0 +1,3 @@
+# Showcase
+
+By the end of the term, students will have produced a body of work that explains and strives to reproduce the labour and skills of medieval scribes and early modern printers. Our final project seeks to communicate this information to a public audience. We will take over the display cabinets on the fourth floor of Paterson Hall to exhibit what you have created, as well as to teach others about the work you have been doing. In the last weeks of class, we will spend time in class (and outside of class) conceptualizing a small exhibition, writing explanatory text and displaying our work. The final class of the year will be the installation of the exhibition and perhaps a launch party.

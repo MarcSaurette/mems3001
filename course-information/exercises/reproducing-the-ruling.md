@@ -6,7 +6,7 @@ Our first creative exercise involves cutting pages to the size of your parchment
 
 ### Goals
 
-* use measurements from the [previous exercise](1.-folio-measurements.md) to recreate the size and layout of your selected folio
+* use measurements from the [previous exercise](folio-measurements.md) to recreate the size and layout of your selected folio
 * learn the practical reasons why medieval scribes divided up the page as they did
 * learn terminology for describing the mise-en-page of medieval folios&#x20;
 

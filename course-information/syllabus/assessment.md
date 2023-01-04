@@ -4,11 +4,12 @@ Due to the experiential nature of this class, many aspects of the course cannot 
 
 Your final mark will be assessed based on your completion of the following coursework:
 
-| **Assignment Type**           | **Relative Weight** |
-| ----------------------------- | ------------------- |
-| Reading & Annotations         | 15%                 |
-| Participation (self assessed) | 25%                 |
-| Leading Seminar               | 10%                 |
-| Exercises                     | 25%                 |
-| Presentations                 | 10%                 |
-| Final Project                 | 15%                 |
+| **Assignment Type**                                          | **Relative Weight** |
+| ------------------------------------------------------------ | ------------------- |
+| [Reading](coursework/reading.md) & Annotations               | 15%                 |
+| [Participation](coursework/participation.md) (self assessed) | 20%                 |
+| [Process Letter](coursework/process-letter.md)               | 5%                  |
+| Leading Seminar                                              | 10%                 |
+| Exercises                                                    | 25%                 |
+| Presentation                                                 | 10%                 |
+| Final Project/ Showcase                                      | 15%                 |

@@ -1,4 +1,4 @@
-# Writing and Scripts
+# 3. Writing and Scripts
 
 ### Goals
 
