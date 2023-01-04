@@ -4,9 +4,9 @@ This week we will meet in the Archives and Special Collections room, on the fift
 
 ### Goals
 
-* Understand the history of the book and the changing technologies of reading during the medieval period
+* Understand the history of the book and the changing technologies of reading and book production during the medieval period and early modern period
 * understand this history by looking hands-on at examples of medieval and early print books
-* Students to begin to document/ catalogue an example from Carleton's collection
+* Students begin to document/ catalogue an example from Carleton's collection of medieval material
 
 ### Read/Watch/Listen
 
@@ -14,4 +14,4 @@ Read James Raven, _The Oxford Illustrated History Of The Book._ Oxford: Oxford U
 
 ### Practice
 
-Complete the [folio measurements exercise](../course-information/exercises/folio-measurements.md) in class. Write up the notes properly to be submitted by the end of the week with Obsidian.&#x20;
+Complete the [folio measurements exercise](../course-information/exercises/1.-folio-measurements.md) in class. Write up the notes properly to be submitted by the end of the week with Obsidian.&#x20;

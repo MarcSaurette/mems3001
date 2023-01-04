@@ -13,4 +13,4 @@ This week we will meet in the Book Arts Lab to work on our first creative exerci
 
 ### Practice
 
-Complete the [folio measurements exercise](../course-information/exercises/folio-measurements.md)
+Complete the [folio measurements exercise](../course-information/exercises/1.-folio-measurements.md)

@@ -17,5 +17,4 @@ If you have a laptop, bring it to class so that we can set up key digital tools 
 In the second part of class, we will ensure that everyone has the following programs up and running:
 
 * [Teams](../course-information/digital-tools/teams.md)
-* [Obsidian](../course-information/digital-tools/obsidian/)
-* [Hypothesis](../course-information/digital-tools/hypothes.is.md)
+* Perusall
