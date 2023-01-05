@@ -14,4 +14,4 @@ Read James Raven, _The Oxford Illustrated History Of The Book._ Oxford: Oxford U
 
 ### Practice
 
-Complete the [folio measurements exercise](../course-information/exercises/folio-measurements.md) in class. Write up the notes properly to be submitted by the end of the week with Obsidian.&#x20;
+Complete the [folio measurements exercise](../course-information/exercises/2.-folio-measurements.md) in class. Write up the notes properly to be submitted by the end of the week with Obsidian.&#x20;

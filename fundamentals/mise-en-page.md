@@ -1,10 +1,11 @@
-# Mise-en-Page\*
+# Mise-en-Page
 
 This week we will meet in the Book Arts Lab to work on our first creative exercise.&#x20;
 
 ### Goals
 
-* Students&#x20;
+* in the first part of class, we will discuss the terminology and norms of medieval _mis-en-page_; we will seek to answer how medieval techniques and materials encouraged organizing information in specific ways. &#x20;
+* In the second part of class, we will use the measurements taken last week in class and use them to layout a hand drawn facsimile on paper. This marks the first step in creating a reproduction of the medieval manuscript.
 
 ### Read/Watch/Listen
 
@@ -13,4 +14,4 @@ This week we will meet in the Book Arts Lab to work on our first creative exerci
 
 ### Practice
 
-Complete the [folio measurements exercise](../course-information/exercises/folio-measurements.md)
+We will start the [Reproducing the Ruling](../course-information/exercises/3.-reproducing-the-ruling.md) exercise in class. If incomplete by the end of class, finish your work before next class.&#x20;
