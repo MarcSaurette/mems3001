@@ -1,2 +1,2 @@
-# Abbreviations
+# Abbreviations\*
 

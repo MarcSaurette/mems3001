@@ -1,6 +1,6 @@
 # Mise-en-Page
 
-This week we will meet in the Book Arts Lab to work on our first creative exercise.&#x20;
+This week we will meet in the Book Arts Lab.
 
 ### Goals
 
@@ -14,4 +14,4 @@ This week we will meet in the Book Arts Lab to work on our first creative exerci
 
 ### Practice
 
-We will start the [Reproducing the Ruling](../course-information/exercises/reproducing-the-ruling.md) exercise in class. If incomplete by the end of class, finish your work before next class.&#x20;
+We will start the [Reproducing the Ruling](../course-information/exercises/reproducing-the-ruling.md) exercise in class. If incomplete by the end of class, finish your work before next class. All work will be left in the Book Arts Lab and you can arrange with Larry to have access to it outside of class time.&#x20;

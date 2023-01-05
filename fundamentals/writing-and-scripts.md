@@ -1,15 +1,15 @@
-# Writing and Scripts
+# Writing and Scripts\*
 
 ### Goals
 
 * learn how to describe and identify medieval scripts
 * practice transcribing &#x20;
 
-Read/Listen/Watch
+### Read/Listen/Watch
 
 
 
-Practice/Explore
+### Practice/Explore
 
 {% embed url="https://exeterbookhand.com" %}
 

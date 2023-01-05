@@ -11,7 +11,7 @@
 |                   5                   | February 9th                                      | [Abbreviations](detailed-schedule/abbreviations.md) (in ARC)                    |
 |                   6                   | February 16th                                     | [Rubrication and Decoration](detailed-schedule/decoration.md)                   |
 | <mark style="color:red;">**7**</mark> | <mark style="color:red;">**February 23rd**</mark> | <mark style="color:red;">**Reading Week. No Classes.**</mark>                   |
-|                   8                   | March 2nd                                         | [Binding](detailed-schedule/bookbindings.md)                                    |
+|                   8                   | March 2nd                                         | [Binding](detailed-schedule/bookbinding.md)                                     |
 |                   9                   | March 9th                                         | [Presentations](course-information/syllabus/coursework/presentations.md)        |
 |                   10                  | March 16th                                        | [Early Printed Works](detailed-schedule/early-print-books.md)                   |
 |                   11                  | March 23rd                                        | [Print workshop I](fundamentals/print-workshop-i.md)                            |

@@ -2,7 +2,7 @@
 
 ### Goals:&#x20;
 
-* start to work with medieval material, even before we are able to read or understand what their purpose.&#x20;
+* start to work with medieval sources, even before we are able to read or understand what might be their purpose.&#x20;
 * this is the first step in creating a handmade reproduction of the folio
 * to understand the page layout of a medieval manuscript folio
 * to take precise measurements of the page layout, so that you will be able to reproduce the page later
@@ -20,6 +20,7 @@
 
 1. Use the scan tent to take multiple reference photos of your folio&#x20;
 2. Follow the steps below to take exhaustive measurements of the page layout of your folio
+3. Your measurements should be organized into a diagram or list of detailed measurements with corresponding codes. A copy of this work needs to be submitted to me on paper at the start of next class - either a printed list or printed scan of your handwritten work.&#x20;
 
 ### What to measure?
 
@@ -45,7 +46,7 @@ Your goal to prepare for your reconstruction of a folio facsimile is by taking m
 
 ![Fig 3.](<../../.gitbook/assets/Fig. 35.6a.png>)
 
-Record, in millimetres, measurements of all of the following (in reference to figures 2 & 3). In medieval manuscripts, the lines (i.e. ruling) are present, but these disappear from print texts. If you are working with a print work, approximate these measurements as much as possible; you will have to do the same with some medieval folios with particularly decorative borders.
+Record, in millimetres, measurements of all of the following (in reference to figures 2 & 3). In medieval manuscripts, the lines (i.e. ruling) are present, but these disappear from print texts.
 
 * writing frame (STUV)
 * frame lines (ST, UV, SU, TV)
@@ -64,7 +65,9 @@ With reference for figure 1, record the following:
 * fg & gc (compare to ab)
 * ah
 * bi
+* ik
 * kf
+* ad (if bifolium)
 
 ### Recording ruling patterns
 
