@@ -5,15 +5,15 @@
 |                  Week                 | Date                                              | Topic                                                                           |
 | :-----------------------------------: | ------------------------------------------------- | ------------------------------------------------------------------------------- |
 |                   1                   | January 12th                                      | [Orientation](fundamentals/orientation.md)                                      |
-|                   2                   | January 19th                                      | [Meetings with manuscripts](fundamentals/meetings-with-manuscripts.md) (in ARC) |
+|                   2                   | January 19th                                      | [Meetings with manuscripts](fundamentals/meetings-with-manuscripts.md) (in ASC) |
 |                   3                   | January 26th                                      | [Mise-en-page](fundamentals/mise-en-page.md)                                    |
 |                   4                   | February 2nd                                      | [Writing & Scripts](fundamentals/writing-and-scripts.md)                        |
-|                   5                   | February 9th                                      | [Abbreviations](detailed-schedule/abbreviations.md) (in ARC)                    |
+|                   5                   | February 9th                                      | [Abbreviations](detailed-schedule/abbreviations.md) (in ASC)                    |
 |                   6                   | February 16th                                     | [Rubrication and Decoration](detailed-schedule/decoration.md)                   |
 | <mark style="color:red;">**7**</mark> | <mark style="color:red;">**February 23rd**</mark> | <mark style="color:red;">**Reading Week. No Classes.**</mark>                   |
 |                   8                   | March 2nd                                         | [Binding](detailed-schedule/bookbinding.md)                                     |
 |                   9                   | March 9th                                         | [Presentations](course-information/syllabus/coursework/presentations.md)        |
-|                   10                  | March 16th                                        | [Early Printed Works](detailed-schedule/early-print-books.md)                   |
+|                   10                  | March 16th                                        | [Early Printed Works](detailed-schedule/early-print-books.md) (in ASC)          |
 |                   11                  | March 23rd                                        | [Print workshop I](fundamentals/print-workshop-i.md)                            |
 |                   12                  | March 30th                                        | [Print workshop II](fundamentals/print-workshop-i.md)                           |
 |                   13                  | April 6th                                         | Showcase (Exhibition?)                                                          |
