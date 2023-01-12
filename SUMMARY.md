@@ -1,8 +1,8 @@
 # Table of contents
 
 * [Welcome](README.md)
-* [How to use this site\*](how-to-use-this-site.md)
-* [Schedule\*](schedule.md)
+* [How to use this site](how-to-use-this-site.md)
+* [Schedule](schedule.md)
 
 ## Course Information
 
