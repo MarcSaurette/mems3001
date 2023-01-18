@@ -34,6 +34,7 @@
   * [6. Decoration\*](course-information/exercises/6.-decoration.md)
   * [7. Binding a quire\*](course-information/exercises/7.-binding-a-quire.md)
   * [8. Print Workshops\*](course-information/exercises/8.-print-workshops.md)
+  * [Pictures and Manuscripts\*](course-information/exercises/pictures-and-manuscripts.md)
   * [Manuscript Catalogue Resources\*](course-information/exercises/manuscript-catalogue-resources.md)
 * [Digital Tools](course-information/digital-tools.md)
   * [Office](course-information/digital-tools/office.md)
