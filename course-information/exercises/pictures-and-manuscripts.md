@@ -4,6 +4,8 @@ How to take pictures and use them of medieval manuscripts (incomplete and utterl
 
 #### Take pictures with Capturing the Past:
 
+<figure><img src="../../.gitbook/assets/FmWWNMaX0AAiMqB-2.jpeg" alt=""><figcaption></figcaption></figure>
+
 > Apply consistent machine readable file naming to photographs of historic documents and log the capture process to support the users of those photos!
 >
 > The purpose of the Capturing the Past phone app is to apply consistent machine readable file naming to photographs of historic documents and log the capture process in a comma separated value file to support the users of those photos. The app uses the device’s camera and saves photos with catalogue reference information included in the filename.
