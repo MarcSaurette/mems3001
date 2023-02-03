@@ -29,7 +29,7 @@
   * [3. Reproducing the Ruling](course-information/exercises/reproducing-the-ruling.md)
   * [4.1 Writing and Scripts](course-information/exercises/4.1-writing-and-scripts.md)
   * [4.2 Trialing Bookhands](course-information/exercises/4.2-trialing-bookhands.md)
-  * [5.1 Reading abbreviations\*](course-information/exercises/5.1-reading-abbreviations.md)
+  * [5.1 Reading abbreviations](course-information/exercises/5.1-reading-abbreviations.md)
   * [5.2 Reproducing abbreviations](course-information/exercises/5.2-reproducing-abbreviations.md)
   * [6. Decoration\*](course-information/exercises/6.-decoration.md)
   * [7. Binding a quire\*](course-information/exercises/7.-binding-a-quire.md)
