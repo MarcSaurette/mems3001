@@ -31,7 +31,7 @@
   * [4.2 Trialing Bookhands](course-information/exercises/4.2-trialing-bookhands.md)
   * [5.1 Reading abbreviations](course-information/exercises/5.1-reading-abbreviations.md)
   * [5.2 Reproducing abbreviations](course-information/exercises/5.2-reproducing-abbreviations.md)
-  * [6. Decoration\*](course-information/exercises/6.-decoration.md)
+  * [6. Decoration](course-information/exercises/6.-decoration.md)
   * [7. Binding a quire\*](course-information/exercises/7.-binding-a-quire.md)
   * [8. Print Workshops\*](course-information/exercises/8.-print-workshops.md)
   * [Pictures and Manuscripts\*](course-information/exercises/pictures-and-manuscripts.md)
